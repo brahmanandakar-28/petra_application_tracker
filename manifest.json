@@ -1,0 +1,9 @@
+{
+   "lbm_app": {
+      "version": "1.01.08",
+      "url": "shakti/Phone/Android/data/com.semtech.android.trackerscanner/files/tracker_application.bin"
+   },
+   "lr1110_transceiver": {
+      "version": "03.07",
+      "url": "lr1110_transceiver_0307.h"
+}
