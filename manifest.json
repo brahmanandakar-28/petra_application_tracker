@@ -3,7 +3,7 @@
   "url": "https://api.github.com/repos/Lora-net/radio_firmware_images/contents/lr1110/transceiver/lr1110_transceiver_0308.h"
   },
   "lbm_app": {
-    "version": "2.03.00",
+    "version": "2.04.00",
     "url": "https://github.com/brahmanandakar-28/petra_application_tracker/blob/main/tracker_application.bin"
     }
 }
